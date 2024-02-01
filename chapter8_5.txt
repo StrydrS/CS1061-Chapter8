@@ -1,0 +1,5 @@
+5. A) The original programmer should add sufficient comments and documentation so that their program can be understood after they stop working on the 
+project themselves. This could include things like UML diagrams, program descriptions and explaining the goals and jobs of each method/function.
+
+B) If the original programmer ran into any pitfalls or bugs while working on the codebase originally, they should include that in the comments 
+adjacent to the code that relates to it. 
